@@ -1,0 +1,18 @@
+.Link{
+    padding: 0 16px 0 0;
+    text-transform: capitalize;
+    color: #403012;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.Link:hover{
+    color: #000000;
+    font-size: 25px;
+    font-style: revert;
+}

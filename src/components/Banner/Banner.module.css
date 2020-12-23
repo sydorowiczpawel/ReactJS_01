@@ -1,0 +1,8 @@
+.Banner{
+    display: flex;
+}
+
+.Banner img{
+    max-width: 99%;
+
+}

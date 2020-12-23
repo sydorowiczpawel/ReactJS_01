@@ -1,0 +1,43 @@
+.Navbar{
+
+    background-color: #A67E7B;
+    height: 50px;
+    display: flex;
+}
+
+.Logo{
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    padding: 0 0 0 30px;
+}
+
+.Logo img {
+    max-height: 45px;
+    max-width: 45px;
+}
+
+.Logo img:hover{
+    min-width: 55px;
+    min-height: 55px;
+}
+
+.Logo p{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.Logo p:hover{
+    font-size: 40px;
+}
+
+.LinksContainer {
+    display: flex;
+    height: 95%;
+    justify-content: flex-end;
+    align-items: center;
+}
