@@ -31,13 +31,13 @@
     text-align: center;
 }
 
-.Logo p:hover{
-    font-size: 40px;
-}
-
 .LinksContainer {
     display: flex;
     height: 95%;
     justify-content: flex-end;
     align-items: center;
+}
+
+.Logo p:hover{
+    font-size: 40px;
 }

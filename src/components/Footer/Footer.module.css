@@ -1,0 +1,23 @@
+.Footer{
+
+    background-color: #A67E7B;
+    height: 50px;
+}
+
+.DataContainer {
+    display: flex;
+    height: 95%;
+    justify-content: space-between;
+    align-items: center;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.Data:hover{
+    font-size: 40px;
+}

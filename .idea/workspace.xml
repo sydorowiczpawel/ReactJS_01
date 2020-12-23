@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d15648c0-d15e-4a9a-9718-72adb01e80a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Biggie_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/klocek_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Banner/Banner.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Banner/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Link/Link.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Link/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/beagleGeneza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/madrybeagle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/MainPage/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/SubPage/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Banner/Banner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner/Banner.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Link/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Link/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -54,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pawel\WebstormProjects\ReactJS_01\src\assets" />
       <recent name="D:\CDV\react01\src\assets" />
     </key>
   </component>
@@ -66,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608675553339</updated>
       <workItem from="1608675556124" duration="6598000" />
+      <workItem from="1608733537894" duration="15128000" />
     </task>
     <servers />
   </component>
@@ -82,5 +84,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

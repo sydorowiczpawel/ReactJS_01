@@ -1,16 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
-import Navbar from "./components/Navbar";
-import Banner from "./components/Banner";
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import MainPage from "./pages/MainPage";
+import SubPage from "./pages/SubPage";
+
 function App() {
-  return (
-    <div className="App">
-      <Navbar />
-      <Banner />
-      <div>content</div>
-      <div>stopka</div>
-    </div>
-  );
+    return (
+        <Router>
+            <Switch>
+                <Route exact path="/">
+                    <MainPage />
+                </Route>
+                <Route path="/kontakt">
+                    <SubPage />
+                </Route>
+                <Route path="/log">
+                    <SubPage />
+                </Route>
+                <Route path="/sign">
+                    <SubPage />
+                </Route>
+            </Switch>
+        </Router>
+    );
 }
 
 export default App;

@@ -10,9 +10,9 @@ const Navbar = () => {
             <p>eagleCLUB</p>
         </div>
         <div className={styles.LinksContainer}>
-            <Link name="kontakt" />
-            <Link name="logowanie" />
-            <Link name="rejestracja" />
+            <Link name="kontakt" to="/kontakt" />
+            <Link name="logowanie" to="/log"/>
+            <Link name="rejestracja" to="/sign"/>
         </div>
     </div>
 };
